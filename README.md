@@ -1,5 +1,6 @@
 # my ryzentosh efi
 my hackintosh efi. i do NOT recommend to use this. its better to build yours instead.
+WARNING: You should edit your smbios because it's not valid here. I did that because keeping my own is not safe.
 
 ## specs
 | category      | device                     |
